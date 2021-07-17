@@ -126,7 +126,7 @@ class CursorBase(MySQLCursorAbstract):
     methods and members as required for the Python Database API
     Specification v2.0.
 
-    It's better to inherite from MySQLCursor.
+    It's better to inherit from MySQLCursor.
     """
 
     _raw = False
